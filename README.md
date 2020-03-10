@@ -12,7 +12,7 @@ Napisan je u programskom jeziku C++.
 ## Članovi tima: 
 - [Bojana Ristanović](https://github.com/BokalinaR): bokanar@gmail.com
 - [Lea Petković](https://github.com/leic25): lea.bela.97@gmail.com
-- [Nikola Stamenić](https://github.com/stuckey10): mi16177@math.rs
+- [Nikola Stamenić](https://github.com/stuckey10): mi16177@alas.matf.bg.ac.rs
 
 
 ![app](https://github.com/MATF-RS20/RS011-simple-paint/blob/master/screenshots/FinalScreenshot.png)
